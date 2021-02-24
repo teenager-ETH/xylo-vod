@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "xylodemo",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authxylodemo1ced5e3a",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

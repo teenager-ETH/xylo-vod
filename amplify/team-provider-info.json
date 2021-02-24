@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-xylodemo-dev-01423-authRole",
+      "UnauthRoleArn": "arn:aws:iam::670171959034:role/amplify-xylodemo-dev-01423-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::670171959034:role/amplify-xylodemo-dev-01423-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-xylodemo-dev-01423-deployment",
+      "UnauthRoleName": "amplify-xylodemo-dev-01423-unauthRole",
+      "StackName": "amplify-xylodemo-dev-01423",
+      "StackId": "arn:aws:cloudformation:us-west-2:670171959034:stack/amplify-xylodemo-dev-01423/6d9e2720-764e-11eb-9d02-02c0b9020c29",
+      "AmplifyAppId": "d1hf6wo9ijr9vt"
+    },
+    "categories": {
+      "auth": {
+        "xylodemo1ced5e3a": {}
+      },
+      "video": {
+        "xylodemo": {
+          "s3UUID": "nya34e0e"
+        }
+      }
+    }
+  }
+}
